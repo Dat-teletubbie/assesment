@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.homelogoone{
+    font-family: 'Roboto', sans-serif;
+    color:rgba(255, 0, 0, 0.678);  
+}
+nav{
+
+    display: flex;
+    
+    
+   justify-content: space-between;
+   align-items: center;
+  
+   gap: 50px;
+   flex-direction: row;
+
+    align-items: center;
+background-color: black;
+
+}
+.class{
+    
+}
+body{
+    background-image:url(https://images.pexels.com/photos/450035/pexels-photo-450035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) ;
+    height: 100vh;
+    overflow: scroll;
+}
+.homelogo{
+    color: antiquewhite;
+    
+}
+.homelogo:hover{
+    color:rgba(255, 0, 0, 0.678) ;
+}
+.thewebsite{
+    color: antiquewhite;
+    display: flex;
+
+}
+.thewebsite:hover{
+    color:rgba(255, 0, 0, 0.678) ;
+}
+.middletext{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 750px;
+   
+}
+.hfourmiddle{
+    
+   
+}
+.paragraphs{
+    text-align: justify;
+}
